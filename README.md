@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Human Right First - Asylum](https://github.com/Lambda-School-Labs/human-rights-first-asylum-fe-a) and [ARIYA - Event Management App](https://github.com/seyeonigbinde/ariya)
 
-- 🌱 I’m currently learning **TailwindCCS, Next.js**
+- 🌱 I’m currently learning **TailWindCSS, Next.js**
 
 - 👯 I’m looking to collaborate on [Altrest Tenant Management App](https://github.com/seyeonigbinde/Altrest-Tenant-App-FrontEnd-2)
 

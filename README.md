@@ -11,15 +11,15 @@
 
 - 👯 I’m looking to collaborate on [Altrest Tenant Management App](https://github.com/seyeonigbinde/Altrest-Tenant-App-FrontEnd-2)
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/seyeonigbinde)
+- 👨‍💻 All of my projects are available at my [Portfolio App](https://seyeonigbinde.vercel.app/)
 
 - 💬 Ask me about **React, Node.js**
 
 - 📫 How to reach me **seyeonigbinde@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1dF4Tr9AeX-J-smiCSztGF8n7i6Sh5N40ZeIKpW0eonM/edit?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/13ALMid63SgxQXlSufka4k0A0T8XXSYhv/view?usp=sharing)
 
-- ⚡ Fun fact **I am a Chelsea FC fan**
+- ⚡ Fun fact is that **I am a Chelsea FC fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

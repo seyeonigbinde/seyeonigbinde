@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seyeonigbinde&label=Profile%20views&color=0e75b6&style=flat" alt="seyeonigbinde" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sstephen_coding" target="blank"><img src="https://img.shields.io/twitter/follow/sstephen_coding?logo=twitter&style=for-the-badge" alt="sstephen_coding" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sstephen_coding" target="blank"><img src="https://img.shields.io/twitter/follow/SeyeOni_Codes?logo=twitter&style=for-the-badge" alt="SeyeOni_Codes" /></a> </p>
 
 - 🔭 I’m currently working on [Human Right First - Asylum](https://github.com/Lambda-School-Labs/human-rights-first-asylum-fe-a) and [ARIYA - Event Management App](https://github.com/seyeonigbinde/ariya)
 
-- 🌱 I’m currently learning **TailWindCSS, MongoDB and Next.js**
+- 🌱 I’m currently learning **TailWindCSS and Next.js**
 
 - 👯 I’m looking to collaborate on [Altrest Tenant Management App](https://github.com/seyeonigbinde/Altrest-Tenant-App-FrontEnd-2)
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sstephen_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sstephen_coding" height="30" width="40" /></a>
+<a href="https://twitter.com/SeyeOni_Codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SeyeOni_Codes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/onigbindeseye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onigbindeseye" height="30" width="40" /></a>
 </p>
 

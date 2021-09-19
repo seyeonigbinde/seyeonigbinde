@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sstephen_coding" target="blank"><img src="https://img.shields.io/twitter/follow/SeyeOni_Codes?logo=twitter&style=for-the-badge" alt="SeyeOni_Codes" /></a> </p>
 
-- 🔭 I’m currently working on [Human Right First - Asylum](https://github.com/Lambda-School-Labs/human-rights-first-asylum-fe-a) and [ARIYA - Event Management App](https://github.com/seyeonigbinde/ariya)
+- 🔭 I’m currently working on [ARIYA - Event Management App](https://github.com/seyeonigbinde/ariya)
 
 - 🌱 I’m currently learning **TailWindCSS and Next.js**
 

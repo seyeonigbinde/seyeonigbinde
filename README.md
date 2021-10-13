@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ARIYA - Event Management App](https://github.com/seyeonigbinde/ariya)
 
-- 🌱 I’m currently learning **TailWindCSS and Next.js**
+- 🌱 I’m currently learning **TailWindCSS, TypeScript and MongoDB**
 
 - 👯 I’m looking to collaborate on [Altrest Tenant Management App](https://github.com/seyeonigbinde/Altrest-Tenant-App-FrontEnd-2)
 

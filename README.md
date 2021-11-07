@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/sstephen_coding" target="blank"><img src="https://img.shields.io/twitter/follow/SeyeOni_Codes?logo=twitter&style=for-the-badge" alt="SeyeOni_Codes" /></a> </p>
 
-- 🔭 I’m currently working on [ARIYA - Event Management App](https://github.com/seyeonigbinde/ariya)
+- 🔭 I’m currently working on [LovingSitter - A Dog Sitter App](https://github.com/hatchways/team-bruschetta)
 
-- 🌱 I’m currently learning **TailWindCSS, TypeScript and MongoDB**
+- 🌱 I’m currently learning **TailWindCSS and Next.js**
 
 - 👯 I’m looking to collaborate on [Altrest Tenant Management App](https://github.com/seyeonigbinde/Altrest-Tenant-App-FrontEnd-2)
 
